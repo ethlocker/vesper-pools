@@ -5,8 +5,10 @@
     "avoid-throw": "off",
     "avoid-suicide": "error",
     "avoid-sha3": "warn",
-    "quotes": ["error","double"],
+    "quotes": ["error", "double"],
     "compiler-version": "off",
+    "func-name-mixedcase": "off",
+    "var-name-mixedcase": "off",
     "mark-callable-contracts": "off",
     "no-inline-assembly": "off",
     "not-rely-on-time": "off"

@@ -9,3 +9,5 @@ config/local.json
 coverage
 coverage.json
 .coverage*
+package-lock.json
+.prettierrc
